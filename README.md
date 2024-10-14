@@ -6,7 +6,7 @@ Frontend Developer
 
 Desire to learn knowledge, highly self-motivated, and self-management. Love to help and share with others. Embrace challenges and failures. Always find feasible solutions to negotiate with others and solve problems.
 
-* 🌍  I'm based in Taipei, Taiwan
+* 🌍  I'm based in Toronto, Canada
 * ✉️  You can contact me at [akirapf3@gmail.com](mailto:akirapf3@gmail.com)
 * 🧠  I'm learning Functional Programming
 
