@@ -4,11 +4,10 @@ Hi 👋 My name is Peter Fan
 Frontend Developer
 ------------------
 
-Desire to learn knowledge, highly self-motivated, and self-management. Love to help and share with others. Embrace challenges and failures. Always find feasible solutions to negotiate with others and solve problems.
+Three years of full-time front-end development experience with strong proficiency in Angular, React, JavaScript, and Node.js. Well-versed in modern web development practices, including Scrum/Agile workflows, UI component design, RESTful API integration, troubleshooting, and third-party library implementation. A highly self-motivated and proactive learner with a growth mindset, strong problem-solving abilities, and effective teamwork and self-management skills.
 
 * 🌍  I'm based in Toronto, Canada
 * ✉️  You can contact me at [akirapf3@gmail.com](mailto:akirapf3@gmail.com)
-* 🧠  I'm learning Functional Programming
 
 ### Skills
 
