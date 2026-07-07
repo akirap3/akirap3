@@ -1,5 +1,7 @@
 # Ming-Hung Fan
 
+**Portfolio:** [fanstation.vercel.app](https://fanstation.vercel.app/)
+
 I am a Frontend Engineer based in Toronto, ON, with a background spanning network operations, systems infrastructure, and modern web development. 
 
 My path to software engineering is slightly unconventional. I started my career as an Information and Network Officer in the military, transitioned into roles as an Operations Engineer managing critical network infrastructures, and eventually found my true calling in frontend development. This background gives me a distinct advantage: I don't just build user interfaces; I understand the systems, servers, and networks that power them.
